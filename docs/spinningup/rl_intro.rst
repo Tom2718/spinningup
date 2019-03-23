@@ -55,7 +55,7 @@ The main characters of RL are the **agent** and the **environment**. The environ
 
 The agent also perceives a **reward** signal from the environment, a number that tells it how good or bad the current world state is. The goal of the agent is to maximize its cumulative reward, called **return**. Reinforcement learning methods are ways that the agent can learn behaviors to achieve its goal.
 
-To talk more specifically what RL does, we need to introduce additional terminology. We need to talk about
+To talk more specifically about what RL does, we need to introduce additional terminology. We need to talk about
 
 * states and observations,
 * action spaces,
